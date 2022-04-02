@@ -79,6 +79,8 @@ WHERE ratio > 0
 ORDER BY ratio DESC;
 
 /* Query #7 */
+/* In percentages, how has the urban population grown or shrunk over time compared to each country's total population?
+How has the primary energy consumption (pec) changed over time?*/
 SELECT stateabb, year,pec, upop, tpop, 
 ROUND((upop/tpop)*100, 2) upop_per, ROUND((pec/tpop), 2) pec_per_person
 FROM expense
