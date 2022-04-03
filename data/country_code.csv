@@ -1,0 +1,218 @@
+stateabb,statenme,ccode
+USA,United States of America,2
+CAN,Canada,20
+BHM,Bahamas,31
+CUB,Cuba,40
+HAI,Haiti,41
+DOM,Dominican Republic,42
+JAM,Jamaica,51
+TRI,Trinidad and Tobago,52
+BAR,Barbados,53
+DMA,Dominica,54
+GRN,Grenada,55
+SLU,St. Lucia,56
+SVG,St. Vincent and the Grenadines,57
+AAB,Antigua & Barbuda,58
+SKN,St. Kitts and Nevis,60
+MEX,Mexico,70
+BLZ,Belize,80
+GUA,Guatemala,90
+HON,Honduras,91
+SAL,El Salvador,92
+NIC,Nicaragua,93
+COS,Costa Rica,94
+PAN,Panama,95
+COL,Colombia,100
+VEN,Venezuela,101
+GUY,Guyana,110
+SUR,Suriname,115
+ECU,Ecuador,130
+PER,Peru,135
+BRA,Brazil,140
+BOL,Bolivia,145
+PAR,Paraguay,150
+CHL,Chile,155
+ARG,Argentina,160
+URU,Uruguay,165
+UKG,United Kingdom,200
+IRE,Ireland,205
+NTH,Netherlands,210
+BEL,Belgium,211
+LUX,Luxembourg,212
+FRN,France,220
+MNC,Monaco,221
+LIE,Liechtenstein,223
+SWZ,Switzerland,225
+SPN,Spain,230
+AND,Andorra,232
+POR,Portugal,235
+HAN,Hanover,240
+BAV,Bavaria,245
+GMY,Germany,255
+GFR,German Federal Republic,260
+GDR,German Democratic Republic,265
+BAD,Baden,267
+SAX,Saxony,269
+WRT,Wuerttemburg,271
+HSE,Hesse Electoral,273
+HSG,Hesse Grand Ducal,275
+MEC,Mecklenburg Schwerin,280
+POL,Poland,290
+AUH,Austria-Hungary,300
+AUS,Austria,305
+HUN,Hungary,310
+CZE,Czechoslovakia,315
+CZR,Czech Republic,316
+SLO,Slovakia,317
+ITA,Italy,325
+PAP,Papal States,327
+SIC,Two Sicilies,329
+SNM,San Marino,331
+MOD,Modena,332
+PMA,Parma,335
+TUS,Tuscany,337
+MLT,Malta,338
+ALB,Albania,339
+MNG,Montenegro,341
+MAC,Macedonia,343
+CRO,Croatia,344
+YUG,Yugoslavia,345
+BOS,Bosnia and Herzegovina,346
+KOS,Kosovo,347
+SLV,Slovenia,349
+GRC,Greece,350
+CYP,Cyprus,352
+BUL,Bulgaria,355
+MLD,Moldova,359
+ROM,Romania,360
+RUS,Russia,365
+EST,Estonia,366
+LAT,Latvia,367
+LIT,Lithuania,368
+UKR,Ukraine,369
+BLR,Belarus,370
+ARM,Armenia,371
+GRG,Georgia,372
+AZE,Azerbaijan,373
+FIN,Finland,375
+SWD,Sweden,380
+NOR,Norway,385
+DEN,Denmark,390
+ICE,Iceland,395
+CAP,Cape Verde,402
+STP,Sao Tome and Principe,403
+GNB,Guinea-Bissau,404
+EQG,Equatorial Guinea,411
+GAM,Gambia,420
+MLI,Mali,432
+SEN,Senegal,433
+BEN,Benin,434
+MAA,Mauritania,435
+NIR,Niger,436
+CDI,Ivory Coast,437
+GUI,Guinea,438
+BFO,Burkina Faso,439
+LBR,Liberia,450
+SIE,Sierra Leone,451
+GHA,Ghana,452
+TOG,Togo,461
+CAO,Cameroon,471
+NIG,Nigeria,475
+GAB,Gabon,481
+CEN,Central African Republic,482
+CHA,Chad,483
+CON,Congo,484
+DRC,Democratic Republic of the Congo,490
+UGA,Uganda,500
+KEN,Kenya,501
+TAZ,Tanzania,510
+ZAN,Zanzibar,511
+BUI,Burundi,516
+RWA,Rwanda,517
+SOM,Somalia,520
+DJI,Djibouti,522
+ETH,Ethiopia,530
+ERI,Eritrea,531
+ANG,Angola,540
+MZM,Mozambique,541
+ZAM,Zambia,551
+ZIM,Zimbabwe,552
+MAW,Malawi,553
+SAF,South Africa,560
+NAM,Namibia,565
+LES,Lesotho,570
+BOT,Botswana,571
+SWA,Swaziland,572
+MAG,Madagascar,580
+COM,Comoros,581
+MAS,Mauritius,590
+SEY,Seychelles,591
+MOR,Morocco,600
+ALG,Algeria,615
+TUN,Tunisia,616
+LIB,Libya,620
+SUD,Sudan,625
+SSD,South Sudan,626
+IRN,Iran,630
+TUR,Turkey,640
+IRQ,Iraq,645
+EGY,Egypt,651
+SYR,Syria,652
+LEB,Lebanon,660
+JOR,Jordan,663
+ISR,Israel,666
+SAU,Saudi Arabia,670
+YAR,Yemen Arab Republic,678
+YEM,Yemen,679
+YPR,Yemen People's Republic,680
+KUW,Kuwait,690
+BAH,Bahrain,692
+QAT,Qatar,694
+UAE,United Arab Emirates,696
+OMA,Oman,698
+AFG,Afghanistan,700
+TKM,Turkmenistan,701
+TAJ,Tajikistan,702
+KYR,Kyrgyzstan,703
+UZB,Uzbekistan,704
+KZK,Kazakhstan,705
+CHN,China,710
+MON,Mongolia,712
+TAW,Taiwan,713
+KOR,Korea,730
+PRK,North Korea,731
+ROK,South Korea,732
+JPN,Japan,740
+IND,India,750
+BHU,Bhutan,760
+PAK,Pakistan,770
+BNG,Bangladesh,771
+MYA,Myanmar,775
+SRI,Sri Lanka,780
+MAD,Maldives,781
+NEP,Nepal,790
+THI,Thailand,800
+CAM,Cambodia,811
+LAO,Laos,812
+DRV,Vietnam,816
+RVN,Republic of Vietnam,817
+MAL,Malaysia,820
+SIN,Singapore,830
+BRU,Brunei,835
+PHI,Philippines,840
+INS,Indonesia,850
+ETM,East Timor,860
+AUL,Australia,900
+PNG,Papua New Guinea,910
+NEW,New Zealand,920
+VAN,Vanuatu,935
+SOL,Solomon Islands,940
+KIR,Kiribati,946
+TUV,Tuvalu,947
+FIJ,Fiji,950
+TON,Tonga,955
+NAU,Nauru,970
+MSI,Marshall Islands,983
+PAL,Palau,986
+FSM,Federated States of Micronesia,987
+WSM,Samoa,990
